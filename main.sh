@@ -23,4 +23,4 @@ echo -e "\e[32;33m ║       Copyright © 2022 By Lotusociety Team      ║"
 echo -e "\e[32;35m ╚═════════════════════════════════════════════════╝"
 echo "...:::: DDoS Tool v2.3 - Copyright : @Lotusociety ::::...."
 echo ""
-java ddos.java
+java prx.java
